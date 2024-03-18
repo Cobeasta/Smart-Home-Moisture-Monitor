@@ -1,0 +1,4 @@
+build/
+cmake-build-idf-general/
+espidf_source.bat
+.idea/
