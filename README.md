@@ -6,6 +6,9 @@
 
 ## Software Tools:
 * Build system: CMake
-* Toolchain: ESP IDF
+* Toolchain: [ESP IDF](https://github.com/espressif/esp-idf)
 * IDE: CLion
+
+## Libraries:
+* [esp-idf-lib:](https://github.com/UncleRus/esp-idf-lib) Library created with components for Espressif ESP32 boards.
 
